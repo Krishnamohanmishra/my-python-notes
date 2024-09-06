@@ -35,3 +35,25 @@ a= 5!=5
 print(a)
 
          #logical operater----------
+
+
+#truth table for 'or'
+
+print("true or false is " , True or False)
+print("False or false is " , False or False)
+print("true or True is " , True or True)
+print("False or false is " , False or False)
+
+#truth table for 'and'
+
+
+print("true and false is " , True and False)
+print("False and false is " , False and False)
+print("true and True is " , True and True)
+print("False and false is " , False and False)
+
+
+#truth table for 'not'
+print(not(True))
+print(not( True))
+print(not(False))
